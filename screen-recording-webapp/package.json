@@ -1,0 +1,28 @@
+{
+  "name": "screen-recording-webapp",
+  "version": "1.0.0",
+  "description": "A web application for screen recording.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/screen-recording-webapp.git"
+  },
+  "keywords": [
+    "screen-recording",
+    "webapp",
+    "nodejs",
+    "express"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/screen-recording-webapp/issues"
+  },
+  "homepage": "https://github.com/yourusername/screen-recording-webapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
